@@ -11,12 +11,12 @@ pylint = "*"
 "autopep8" = "*"
 rope = "*"
 
-
 [packages]
 jupyter = "*"
 numpy = "*"
 pandas = "*"
 matplotlib = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.7"
